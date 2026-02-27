@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "1b0e874e0193012d",
+    "type": "split",
+    "children": [
+      {
+        "id": "df8ae64d0ac26e63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ae1782f0603c39c",
+            "type": "leaf",
+            "state": {
+              "type": "cook",
+              "state": {
+                "file": "Diner/Lentil soup.cook",
+                "mode": "source"
+              },
+              "icon": "document-cook",
+              "title": "Lentil soup"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67e18ce5790018d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a171569b6524bd72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbb89dfae6757b18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "81a31576d572f7aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dd7d25c86eb62904",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08fe81260127374f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b1f11bbdab4ecbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "830c6eef0c823dcb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diner/Lentil soup.cook",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lentil soup"
+            }
+          },
+          {
+            "id": "25cd987ba23e85cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diner/Lentil soup.cook",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lentil soup"
+            }
+          },
+          {
+            "id": "0fba82dd424dc62b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "450eac03f02c8540",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bd5c3538e9651fcf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diner/Lentil soup.cook",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lentil soup"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "3ae1782f0603c39c",
+  "lastOpenFiles": [
+    "Sauces/Gremolata.cook",
+    "Diner/Lentil soup.cook",
+    "Diner/Lentil soup.jpg",
+    "Sauces/Untitled.cook",
+    "sides",
+    "Dessert",
+    "Breakfast",
+    "Diner",
+    "Sauces",
+    "Neapolitan Pizza.cook",
+    "Breakfast/Mexican Style Burrito.cook",
+    "README.md",
+    "Breakfast/Easy Pancakes.jpg",
+    "Breakfast/Easy Pancakes.3.jpg",
+    "Breakfast/Chocolate Toast Delight.3.jpg",
+    "Breakfast/Chocolate Toast Delight.2.jpg",
+    "Breakfast/Chocolate Toast Delight.1.jpg",
+    "Welcome.md"
+  ]
+}
